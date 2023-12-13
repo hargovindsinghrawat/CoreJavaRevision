@@ -1,6 +1,7 @@
-package com.java.collections;
+package com.collections.iterable;
 
 import java.util.Iterator;
+import java.util.List;
 
 public class CollectionsTest {
 

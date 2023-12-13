@@ -1,4 +1,4 @@
-package com.java.collections;
+package com.collections.iterable;
 
 import java.util.Iterator;
 
