@@ -61,6 +61,7 @@ public class OurMap<K,V>{
  
 	}
  
+	//rehashing
 	private void rehash() {
 		System.out.println("Rehashing buckets");
 		List<MapNode<K , V>> temp = bucket;
